@@ -166,7 +166,7 @@ ul#cat_nav_blog li a{
 	color:#555;
 }
 ul#cat_nav_blog li a:hover{
-	color:#ed5434;
+	color:#92278f;
 }
 ul#cat_nav_blog li:last-child a{
 	margin-bottom:0;
@@ -209,7 +209,7 @@ ul#cat_nav_blog li a:before{
     border: 0;
     box-shadow: none;
     border-left: solid 1px #ccc;
-	color:#ed5434;
+	color:#92278f;
 }
 
 #custom-search-input-blog .glyphicon-search{
