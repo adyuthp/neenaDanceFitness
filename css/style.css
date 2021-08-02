@@ -47,7 +47,7 @@ Author URI: http://themeforest.net/user/Ansonika/
 /*-------- Allert for old browsers IE8 and below --------*/
 
 .chromeframe {
-	background: #ddd;
+	background: rgb(22, 22, 22);
 	color: #000;
 	padding: 0.2em;
 	position: fixed;
@@ -97,11 +97,11 @@ html * {
 }
 
 body {
-	background: #fff;
+	background: rgb(0, 0, 0);
 	font-size: 14px;
 	line-height: 1.5;
-	font-family: "Poppins", Arial, sans-serif;
-	color: #444;
+	font-family:"Gilroy-extrabold";
+	color: rgb(255, 255, 255);
 	-webkit-font-smoothing: antialiased;
 	font-weight: 300;
 }
@@ -113,7 +113,7 @@ h4,
 h5,
 h6 {
 	-webkit-font-smoothing: antialiased;
-	color: #222;
+	color: rgb(255, 255, 255);
 	font-weight: 300;
 }
 
@@ -140,6 +140,7 @@ h2.main_title span {
 	color: #999;
 	font-size: 24px;
 	text-transform: none;
+	font-family: 'Gilroy-light';
 }
 
 h1.main_title em,
@@ -215,6 +216,7 @@ h3.slide_typo {
 
 p {
 	margin-bottom: 20px;
+	font-family: 'Gilroy-light';
 }
 
 strong {
@@ -416,7 +418,7 @@ header {
 
 header.sticky {
 	border-bottom: 1px solid #ededed;
-	background: #fff;
+	background: rgb(0, 0, 0);
 	-webkit-transition: all 0.4s ease;
 	transition: all 0.4s ease;
 }
@@ -546,7 +548,7 @@ footer a:hover {
 }
 
 #newsletter_container {
-	background-color: #f8f8f8;
+	background-color: #3333;
 }
 
 #newsletter_container h3 {
@@ -771,7 +773,7 @@ video {
 	-webkit-border-radius: 30px;
 	-moz-border-radius: 30px;
 	border-radius: 30px;
-	background-color: #ededed;
+	background-color: #797979;
 	border: 0;
 	font-weight: 500;
 	padding: 5px 10px;
@@ -2260,7 +2262,7 @@ ul.list_3 li:before {
 
 /*-------- 3.3 Containers --------*/
 .container_styled_1 {
-	background: #f9f9f9;
+	background: #3333;
 }
 
 .box_style_1 {

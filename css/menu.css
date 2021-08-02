@@ -16,7 +16,7 @@
 .main-menu > ul > li:hover > a {color: #92278f;}
 
 /*First level styles header */		
-header.sticky .main-menu > ul > li > a, header#plain .main-menu > ul > li > a {color: #333;}
+header.sticky .main-menu > ul > li > a, header#plain .main-menu > ul > li > a {color: rgb(255, 255, 255);}
 
 /* Opacity mask when left open */
 .layer {
