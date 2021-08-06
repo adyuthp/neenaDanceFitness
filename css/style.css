@@ -130,7 +130,7 @@ h2.main_title {
 	margin: 0 0 30px 0;
 	padding: 0;
 	font-size: 42px;
-	color: #92278f;
+	color: #ea58f9;
 	text-transform: uppercase;
 }
 
@@ -255,7 +255,7 @@ a.btn_full,
 	font-size: inherit;
 	color: #fff;
 	width: 100%;
-	background: #92278f;
+	background: #000000;
 	cursor: pointer;
 	padding: 12px 20px;
 	display: inline-block;
@@ -753,15 +753,15 @@ video {
 }
 
 .box_feat#icon_1 {
-	background: url(../img/icon_1.svg) no-repeat center top;
+	background: url(../img/icon_2.png) no-repeat center top;
 }
 
 .box_feat#icon_2 {
-	background: url(../img/icon_2.svg) no-repeat center top;
+	background: url(../img/icon_1.png) no-repeat center top;
 }
 
 .box_feat#icon_3 {
-	background: url(../img/icon_3.svg) no-repeat center top;
+	background: url(../img/icon_3.png) no-repeat center top;
 }
 
 #filter_buttons {
@@ -1148,8 +1148,8 @@ ul#course_info li:last-child {
 	position: absolute;
 	left: 0;
 	top: 20px;
-	background-color: #92278f;
-	color: #fff;
+	background-color: #ffffff;
+	color: rgb(0, 0, 0);
 	padding: 10px 20px 3px 20px;
 	line-height: 1;
 }
@@ -1172,7 +1172,7 @@ ul#course_info li:last-child {
 }
 
 #features a {
-	color: #444;
+	color: rgb(255, 255, 255);
 	border-bottom: 1px dotted #999999;
 }
 
@@ -1302,13 +1302,12 @@ input[type="radio"]:checked + label span {
 }
 
 .box_style_3 {
-	border: 1px solid #ededed;
 	padding: 20px;
 	text-align: center;
 	min-height: 250px;
 	position: relative;
 	margin-bottom: 15px;
-	background-color: #f9f4f9;
+	background-color: #1a1a1a;
 }
 
 .box_style_3 h4 {
@@ -2271,7 +2270,7 @@ ul.list_3 li:before {
 }
 
 .box_style_2 {
-	background-color: #f4f4f4;
+	background-color: #93318f;
 	padding: 20px;
 	position: relative;
 	margin-bottom: 25px;
