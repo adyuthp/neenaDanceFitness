@@ -232,7 +232,7 @@ p.lead.styled {
 
 /*General links color*/
 a {
-	color: #92278f;
+	color: #1b1b1b;
 	text-decoration: none;
 	-webkit-transition: all 0.2s ease;
 	transition: all 0.2s ease;
@@ -314,7 +314,7 @@ a.btn_1,
 	font-family: inherit;
 	font-size: inherit;
 	color: #fff;
-	background: #92278f;
+	background: #000000;
 	cursor: pointer;
 	padding: 7px 15px;
 	display: inline-block;
@@ -2279,7 +2279,7 @@ ul.list_3 li:before {
 .box_style_2 hr {
 	margin: 10px -25px 20px -25px;
 	border: 0;
-	border-top: 2px solid #fff;
+	border-top: 2px solid rgb(0, 0, 0);
 }
 
 .box_style_4 {
@@ -2325,7 +2325,7 @@ ul.list_3 li:before {
 
 .box_style_6 {
 	box-shadow: 0 2px 3px rgba(0, 0, 0, 0.07);
-	background-color: #fff;
+	background-color: #353535;
 	padding: 30px 30px 15px 30px;
 }
 
